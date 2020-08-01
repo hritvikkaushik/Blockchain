@@ -10,3 +10,4 @@ Blockchain is the technology on which cryptocurrencies work. It's an immutable, 
 * Python3 is the base programming language for this project.
 * cURL is used to make HTTP requests.
 * Requests library and Flask Framework of Python3 are used to create an API for the blockchain.
+* Hashlib and json are used to generate the hashes for the blocks in the blockchain.
